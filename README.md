@@ -1,1 +1,1 @@
-#2-Serverless_Web-Application_on_AWS
+# Serverless_Web-Application_on_AWS
